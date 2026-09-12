@@ -1,6 +1,7 @@
 # Module 1 — Building the Agent
 
-Part of the **Building GenAI Applications with AI Agents that Reason, Decide and Act** workshop.
+Part of the **[Building and Scaling Agentic AI Workflows](https://catalog.workshops.aws/workshops/eb18d538-bf1f-49b9-9747-c474953deee1/en-US)** workshop powered by Amazon Builder Centre.
+
 
 ## Overview
 
